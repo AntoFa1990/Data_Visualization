@@ -1,15 +1,16 @@
 # Data_Visualization
 Python-based data visualization use-case based on a pharmaceutical lab study.
 
-##Analysis
-###Overview
+## Analysis
+
+### Overview
 Pymaceuticals, Inc. is a pharmaceutical company screening new treatments for squamous cell carcinoma (SCC), one of the most frequently occurring forms of skin cancer.
 
 In this study, 249 mice identified with SCC tumors received treatment with several newly developed drug regimens. Over a 45 day period, tumor development was observed and measured, along with the sex, weight and age of the mice.
 
 The purpose of this study was to measure the performance Pymaceutical's target drug, Capomulin, against that of the other treatment regimens.
 
-###Description of Data
+### Description of Data
 • Nine treatment drugs and one placebo were tested on 249 mice over a 45 day period.
 
 • One mouse was removed from the dataset due to duplication.
@@ -18,7 +19,7 @@ The purpose of this study was to measure the performance Pymaceutical's target d
 
 • The number of timepoint observations per drug during the period ranged from 148-230, indicating a robust sample size for the drugs tested.
 
-###Summary Findings
+### Summary Findings
 • Over the 45-day testing period, Capomulin and Ramicane showed the smallest mean tumor volume, as well as the smallest standard deviation.
 
 • Final tumor volume for four drugs (Capomulin, Ramicane, Infubinol, and Ceftamin) were further analyzed to determine the data distribution for each drug and the presence of any outliers.
